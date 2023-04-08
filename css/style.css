@@ -10,3 +10,20 @@ body {
     width: 500px;
     height: 50px;
 }
+.timer {
+    display: flex;
+    justify-content: center;
+}
+.value {
+    color: rgb(255, 60, 0);
+    font-size: 32px;
+}
+.label {
+    color: blue;
+    font-size: 32px;
+}
+.field {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
