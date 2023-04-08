@@ -1,7 +1,7 @@
 // const dateBtn = document.querySelector('.js-date');
 
 // dateBtn.addEventListener("click", () => {
-//     const date = new Date();
+    // const date = new Date();
 //     const teamMeetingDate = new Date("March 16, 2030");
 //     const preciseTeamMeetingDate = new Date("March 16, 2030 14:25:00");
 //     // console.log(date);
@@ -9,7 +9,7 @@
 //     // console.log(date.getTime());
 //     // console.log(teamMeetingDate);
 //     // console.log(preciseTeamMeetingDate);
-//     console.log("Date: ", date);
+    // console.log("Date: ", date);
 
 //     // Повертає день місяця від 1 до 31
 //     console.log("getDate(): ", date.getDate());
